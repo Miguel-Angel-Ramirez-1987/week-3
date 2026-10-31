@@ -22,13 +22,19 @@ section {
 }
 
 aside {
-  flex-basis: 25%;
+  flex-basis: 30%;
+  text-align: left;
+  padding-right: 40px;
 }
 
 footer {
+  text-align: left;
 }
 
 header {
+  text-align: left;
+  padding-top: 0;
+  margin: 0;
 }
 
 img {
@@ -37,10 +43,12 @@ img {
 
 main {
   flex-basis: 50%;
+  text-align: left;
 }
 
 nav {
-  flex-basis: 25%;
+  flex-basis: 20%;
+  text-align: left;
 }
 
 #copyright {
